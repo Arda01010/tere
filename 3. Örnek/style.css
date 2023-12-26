@@ -1,0 +1,111 @@
+
+.row > div{
+    padding: 15px;
+}
+
+#topbar div{
+    height: 174px;
+}
+#navbar div{
+    height: 582.81pxpx;
+}
+#text5 div{
+    height: 51px;
+    background-color: aqua;
+}
+#screach div{
+    height: 166px;
+}
+#mediabar div{
+    height: 400px;
+}
+#info1 div{
+    height: 304px;
+}
+#hero div{
+    height: 278px;
+}
+#services div{
+    height: 150px;
+}
+#info div{
+    height: 120px;
+}
+#footer div{
+    height: 90px;
+}
+#topbar img{
+    width: 180px;
+    height: 51px;
+    display: flex;
+}
+#links{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+#links ul li a{
+    display: flex;
+    text-decoration: none;
+    color:#000000 ;
+}
+#links button{
+    width: 182px;
+    height: 50px;
+    border-radius: 5.95px;
+    color: #FFFFFF;
+    background-color: #75BF7A;
+}
+#text1 h1{
+    font-size: 60.73px;
+}
+#text1 p{
+    font-size: 24px;
+}
+#btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#btn button{
+    width: 260px;
+    height: 66.77px;
+    border-radius: 5px;
+    color: #FFFFFF;
+    background-color:#000000;
+}
+#screach{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 166px;
+    border-radius: 10px;
+   background-color:#75BF7A ;
+}
+#text2 p{
+    font-size: 24.6px;
+    color: #FFFFFF;
+}
+#text3 input{
+    width: 499px;
+}
+#text4 button{
+    color: #FFFFFF;
+    background-color: #000000;
+}
+#text5{
+    display: flex;
+    justify-content: center;
+}
+.text6{
+    float: left;
+    font-size: 88px;
+    color: #75BF7A;
+}
+.text7{
+    font-size: 33.94px;
+}
+.text8{
+    font-size: 22px;
+    color: #9E9DA2;
+}
